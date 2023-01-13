@@ -6677,7 +6677,7 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "POST",
+				"method": "PUT",
 				"header": [],
 				"url": {
 					"raw": "{{local}}/test",
