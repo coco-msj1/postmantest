@@ -6677,7 +6677,7 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "PUT",
+				"method": "DELETE",
 				"header": [],
 				"url": {
 					"raw": "{{local}}/test",
